@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import sys
 import urllib2 
 from lxml import html
